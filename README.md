@@ -1,11 +1,11 @@
 # spring-boot-sample
 
-## gradle-project
+## gradle
   * gradel-project
   
-## maven-project
+## maven
   * maven-project
 
 ## sample
-  * sample
+  * sample 소스
 
