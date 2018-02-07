@@ -3,7 +3,7 @@
    * Spring Starter Project 선택
 
 * New Spring Starter Project
-   * name 입력 : 'maven-sample'
+   * name 입력 : 'maven'
    * type 입력 : 'Maven'
    * Group : 'com.sample'
    * Artifact : 'myApp'

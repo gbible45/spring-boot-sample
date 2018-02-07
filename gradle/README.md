@@ -3,7 +3,7 @@
    * Spring Starter Project 선택
 
 * New Spring Starter Project
-   * name 입력 : 'gradle-sample'
+   * name 입력 : 'gradle'
    * type 입력 : 'Gradle(Buildship 2.x)'
    * Group : 'com.sample'
    * Artifact : 'myApp'
